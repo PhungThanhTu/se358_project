@@ -1,0 +1,117 @@
+﻿<Page x:Class="Student_Enroll_REAL.Statistic"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Student_Enroll_REAL"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Statistic">
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Text="STATISTIC"
+                   Foreground="Red"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   FontFamily="Roboto"
+                   FontSize="20"/>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock FontSize="15" FontFamily="Roboto"
+                       Grid.Column="1"
+                       HorizontalAlignment="Left"
+                       VerticalAlignment="Center" Text="Ammount of candidates:"/>
+            <TextBox HorizontalAlignment="Left" BorderThickness="0" Text="15" FontSize="15" FontFamily="Roboto" x:Name="tbSum" IsReadOnly="True" Grid.Column="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            
+        </Grid>
+
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock FontSize="15" FontFamily="Roboto"
+                       Grid.Column="1"
+                       HorizontalAlignment="Left"
+                       VerticalAlignment="Center" Text="Amount of passing candidates:"/>
+            <TextBox HorizontalAlignment="Left" BorderThickness="0" Text="20" FontSize="15" FontFamily="Roboto" x:Name="tbMax" IsReadOnly="True" Grid.Column="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+
+        </Grid>
+
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <TextBlock FontSize="15" FontFamily="Roboto"
+                       Grid.Column="1"
+                       HorizontalAlignment="Left"
+                       VerticalAlignment="Center" Text="Candidate with highest score:"/>
+            <TextBox HorizontalAlignment="Left" BorderThickness="0" Text="Hoàng Anh Kiệt" FontSize="15" FontFamily="Roboto" x:Name="tbMaxName" IsReadOnly="True" Grid.Column="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+
+        </Grid>
+
+        <Grid Grid.Row="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1.75*"/>
+                <ColumnDefinition  Width="1.25*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <ComboBox Name="SubjectCbx" Grid.Column="0" FontFamily="Roboto" FontSize="15" Foreground="Blue" VerticalContentAlignment="Center" Grid.Row="1" Background="Transparent" BorderThickness="0" SelectionChanged="cbXSubject_SelectionChanged" />
+            </Grid>
+          
+            <TextBlock FontSize="15" FontFamily="Roboto"
+                       Grid.Column="1"
+                       
+                       HorizontalAlignment="Left"
+                       VerticalAlignment="Center" Text="Highest score candidate in:"/>
+            <TextBox HorizontalAlignment="Left" BorderThickness="0" Text="Hoàng Anh Kiệt" FontSize="15" FontFamily="Roboto" x:Name="tbMaxNameSbj" IsReadOnly="True" Grid.Column="3" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+
+        </Grid>
+
+        <Grid Grid.Row="5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <TextBlock FontSize="15" FontFamily="Roboto"
+                       Grid.Column="1"
+                       HorizontalAlignment="Left"
+                       VerticalAlignment="Center" Text="Passing rate :"/>
+            <TextBox  HorizontalAlignment="Left" BorderThickness="0" Text="100%" FontSize="15" FontFamily="Roboto" x:Name="tbRatio" IsReadOnly="True" Grid.Column="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+
+        </Grid>
+    </Grid>
+</Page>

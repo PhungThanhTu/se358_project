@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AnnouncePrint.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CandidateList.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CandidateListDatagrid.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CrucialMarkSetter.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DevForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Register.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RegisterEditing.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Result.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ScoreEntering.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ScoringDatagrid.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Statistic.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AnnouncePrint.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CandidateList.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CandidateListDatagrid.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CrucialMarkSetter.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DevForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Register.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RegisterEditing.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Result.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ScoreEntering.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ScoringDatagrid.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Statistic.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

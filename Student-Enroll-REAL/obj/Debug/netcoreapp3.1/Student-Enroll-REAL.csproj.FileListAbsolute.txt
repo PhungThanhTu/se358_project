@@ -1,0 +1,118 @@
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Student-Enroll-REAL.exe
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Student-Enroll-REAL.deps.json
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Student-Enroll-REAL.runtimeconfig.json
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Student-Enroll-REAL.runtimeconfig.dev.json
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Student-Enroll-REAL.dll
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Student-Enroll-REAL.pdb
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Spire.License.dll
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Spire.Pdf.dll
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Syncfusion.Compression.Portable.dll
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Syncfusion.Pdf.Portable.dll
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\runtimes\tizen-armel\native\libSkiaSharp.so
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\runtimes\tizen-x86\native\libSkiaSharp.so
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Git\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL.csprojAssemblyReference.cache
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\AnnouncePrint.g.cs
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\CandidateList.g.cs
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\CandidateListDatagrid.g.cs
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\CrucialMarkSetter.g.cs
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Register.g.cs
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\RegisterEditing.g.cs
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Result.g.cs
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\ScoreEntering.g.cs
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\ScoringDatagrid.g.cs
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Statistic.g.cs
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL_MarkupCompile.cache
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL_MarkupCompile.lref
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\AnnouncePrint.baml
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\CandidateList.baml
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\CandidateListDatagrid.baml
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\CrucialMarkSetter.baml
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Register.baml
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\RegisterEditing.baml
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Result.baml
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\ScoreEntering.baml
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\ScoringDatagrid.baml
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Statistic.baml
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL.g.resources
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL.AssemblyInfoInputs.cache
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL.AssemblyInfo.cs
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL.csproj.CoreCompileInputs.cache
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL.csproj.CopyComplete
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL.dll
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL.pdb
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL.genruntimeconfig.cache
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\DevForm.g.cs
+D:\Git\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\DevForm.baml
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Student-Enroll-REAL.exe
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Student-Enroll-REAL.deps.json
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Student-Enroll-REAL.runtimeconfig.json
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Student-Enroll-REAL.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Student-Enroll-REAL.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Student-Enroll-REAL.pdb
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Spire.License.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Spire.Pdf.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Syncfusion.Compression.Portable.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\Syncfusion.Pdf.Portable.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\runtimes\tizen-armel\native\libSkiaSharp.so
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\runtimes\tizen-x86\native\libSkiaSharp.so
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\AnnouncePrint.g.cs
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\CandidateList.g.cs
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\CandidateListDatagrid.g.cs
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\CrucialMarkSetter.g.cs
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\DevForm.g.cs
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Register.g.cs
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\RegisterEditing.g.cs
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Result.g.cs
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\ScoreEntering.g.cs
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\ScoringDatagrid.g.cs
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Statistic.g.cs
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL_MarkupCompile.cache
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL_MarkupCompile.lref
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\AnnouncePrint.baml
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\CandidateList.baml
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\CandidateListDatagrid.baml
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\CrucialMarkSetter.baml
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\DevForm.baml
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Register.baml
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\RegisterEditing.baml
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Result.baml
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\ScoreEntering.baml
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\ScoringDatagrid.baml
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Statistic.baml
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL.g.resources
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL.csproj.CopyComplete
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL.dll
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL.pdb
+C:\Users\Admin\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Student's Enrolling System\StudentEnrollment\Student-Enroll-REAL\obj\Debug\netcoreapp3.1\Student-Enroll-REAL.genruntimeconfig.cache
