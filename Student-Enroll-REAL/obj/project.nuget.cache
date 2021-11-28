@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L4gEcGTThTPypSXg+6Ke4XObmuiJ/z8H1eRZpHatIYHo9KUWCnd/K8idCpDErJMF/2iToWwMdRtt1KonKkhIAw==",
+  "dgSpecHash": "YKZbWslPHHxLr/D5+o9bwTF0WMip2Oz537lEDvJ0UlOVCqaRN4l/ey+c7EVz3lribLT761YMGt2Ss3X2aSS38A==",
   "success": true,
-  "projectFilePath": "D:\\Git\\StudentEnrollment\\Student-Enroll-REAL\\Student-Enroll-REAL.csproj",
+  "projectFilePath": "D:\\giaodienupdate\\Giao dien\\se358_project\\Student-Enroll-REAL\\Student-Enroll-REAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
