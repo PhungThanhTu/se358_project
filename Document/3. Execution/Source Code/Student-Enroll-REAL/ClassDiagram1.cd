@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Student_Enroll_REAL.Authentication.User" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Authentication\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student_Enroll_REAL.SQLInteraction.CheckLogin" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAUAAAABAAAAAAAAAAAAAAIAAAAQAAA=</HashCode>
+      <FileName>SQLInteraction\CheckLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student_Enroll_REAL.SQLInteraction.ExecuteQuery" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAgAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLInteraction\ExecuteQuery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student_Enroll_REAL.SQLInteraction.SQLConnector" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>SQLInteraction\SQLConnector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student_Enroll_REAL.AnnouncePrint" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AnnouncePrint.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Student_Enroll_REAL.App" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student_Enroll_REAL.CandidateList" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAIAAAAAAAIAAAEAAAAAAAAAAEAAACAAAAAAAM=</HashCode>
+      <FileName>CandidateList.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Student_Enroll_REAL.CandidateListDatagrid" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAGAAAAAAAAAAABAICAAAAiAAAAAgAAAAKIAAAAA=</HashCode>
+      <FileName>CandidateListDatagrid.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Student_Enroll_REAL.CrucialMarkSetter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAIAAAAQAAAAAAAAgAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>CrucialMarkSetter.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Student_Enroll_REAL.DateTimeEdit" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DateTimeEdit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student_Enroll_REAL.DevForm" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DevForm.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Student_Enroll_REAL.GridViewDataColumn" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GridViewDataColumn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student_Enroll_REAL.MainWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACEAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAQAAQAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Student_Enroll_REAL.Register" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAIAAKAAgAoCAAAAiAEAAAAAACABAAhAAA=</HashCode>
+      <FileName>Register.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Student_Enroll_REAL.RegisterEditing" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgCQGEAQIoAAAAAAAEBAAEAgQAgAACAEgAgEQgAAAA=</HashCode>
+      <FileName>RegisterEditing.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Student_Enroll_REAL.Result" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Result.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Student_Enroll_REAL.ScoreEntering" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAADAABAAAAAAABAAAAACAAAAAAA=</HashCode>
+      <FileName>ScoreEntering.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Student_Enroll_REAL.ScoringDatagrid" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAgAAAAoAAAAQiAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>ScoringDatagrid.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Student_Enroll_REAL.Statistic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAgAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Statistic.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
